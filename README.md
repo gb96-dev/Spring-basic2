@@ -1,4 +1,4 @@
-<img width="2559" height="1537" alt="image" src="https://github.com/user-attachments/assets/f474fb80-e083-4505-9b27-048956c72aef" />### 📌 Memo API
+
 
 | 기능 | 메서드 | URL | 요청 본문(JSON) | 설명 |
 | :-- | :-- | :-- | :-- | :-- |
