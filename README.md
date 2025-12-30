@@ -9,18 +9,22 @@
 | 메모 삭제 | DELETE | `/memos/{id}` | 없음 | 메모 삭제 |
 
 
-### 📷 Postman 테스트
-"메모 등록"
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/0c6d434f-95cf-4360-960b-89a3b11986fd" />
+## 📷 Postman 테스트 (Memo API)
 
+### ✏️ 메모 등록
+<img src="https://github.com/user-attachments/assets/0c6d434f-95cf-4360-960b-89a3b11986fd" width="700" />
 
-"메모 상세"
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/3669e0ea-c914-41ed-aef4-9a02aeed1b32" />
+---
 
+### 🔍 메모 상세 조회
+<img src="https://github.com/user-attachments/assets/3669e0ea-c914-41ed-aef4-9a02aeed1b32" width="700" />
 
-"메모 수정"
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/33dca88b-0b1e-49e7-bf65-92fb32fc9dae" />
+---
 
+### ✏️ 메모 수정
+<img src="https://github.com/user-attachments/assets/33dca88b-0b1e-49e7-bf65-92fb32fc9dae" width="700" />
 
-"메모 삭제"
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/22894083-f3a6-4806-9eff-4b43b4ad4db2" />
+---
+
+### 🗑️ 메모 삭제
+<img src="https://github.com/user-attachments/assets/22894083-f3a6-4806-9eff-4b43b4ad4db2" width="700" />
