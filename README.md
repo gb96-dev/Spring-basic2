@@ -1,4 +1,4 @@
-### 📌 Memo API
+<img width="2559" height="1537" alt="image" src="https://github.com/user-attachments/assets/f474fb80-e083-4505-9b27-048956c72aef" />### 📌 Memo API
 
 | 기능 | 메서드 | URL | 요청 본문(JSON) | 설명 |
 | :-- | :-- | :-- | :-- | :-- |
@@ -14,5 +14,13 @@
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/0c6d434f-95cf-4360-960b-89a3b11986fd" />
 
 
-"메모 상세조회"
+"메모 상세"
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/3669e0ea-c914-41ed-aef4-9a02aeed1b32" />
+
+
+"메모 수정"
+<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/33dca88b-0b1e-49e7-bf65-92fb32fc9dae" />
+
+
+"메모 삭제"
+<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/22894083-f3a6-4806-9eff-4b43b4ad4db2" />
